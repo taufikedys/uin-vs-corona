@@ -1,0 +1,38 @@
+Saat ini saya sedang berusaha untuk membantu pemerintah membuat model yang bermanfaat sebagai bentuk kebijakan berdasarkan data ( _data driven policy_ ) terkait musibah Corona. Tiba-tiba teringat ... kalian bisa ambil peran juga!!!... Mari kita lakukan hal ini bersama, saya ingin kalian kuliah sambil ikut membantu pemerintah.
+
+Adapun aktivitas tugasnya sebagai berikut:
+
+1. Tugas dibagi menjadi 5 kelompok per mata kuliah (silahkan tentukan sendiri anggota kelompoknya) dengan ketentuan sebagai berikut:
+- Usahakan jumlah mahasiswa antar kelompok berimbang (tidak ada yang terlalu sedikit/banyak).
+
+2. [Metode Penelitian] Kumpulkan sebanyak mungkin artikel ilmiah terkait musibah Corona (Covid-19), lalu lakukan studi pustaka/literatur review dari artikel-artikel tersebut. 
+- Yakinkan antar kelompok artikelnya tidak ada yang beririsan ... kalian harus belajar saling bekerjasama akan hal ini. 
+- Masing-masing kelompok membuat peta/bagan hubungan antar artikel (contoh akan diberikan setelah pesan ini). Tentu saja berikut narasi reviewnya.
+- Per kelompok minimal merievew 6 paper dan maksimum 8 paper
+- Usahakan paper terkini dan merupakan artikel ilmiah yang berbobot.
+- Laporan dibuat dalam bentuk Jupyter Notebook dan diupload ke repository berikut http://github/taufikedys/uin-vs-corona 
+- Silahkan apply as colaborator agar bisa upload ke GitHub tsb.
+- Github tersebut juga bisa dgunakan sebagai sarana agar paper yang di review tidak saling beririsan.
+- Bagi mahasiswa yang tidak familiar dengan GitHub silahkan gunakan versi destopnya: https://desktop.github.com/
+- Yang ingin berkenalan dengan apa itu GitHub bisa disimak di sini: https://www.youtube.com/results?search_query=github+tutorial+indonesia
+
+3. [Metode Penelitian] Kumpulkan semua dataset Public (beserta metadata dan storynya) terkait musibah Corona di dalam dan luar negeri (dikerjakan per kelompok). 
+- Sama seperti No 2 usahakan tidak ada tumpang tindih/irisan antar kelompok.
+- Yakinkan dataset, metadata (keterangan tentang data), dan story (keterangan lebih lanjut) tentang data ikut dikumpulkan.
+- Per kelompok wajib mencari minimal 2 dataset dan maksimal 3 dataset, utamakan data Indonesia.
+
+4. [Basis Data] Data-data pada Point [2] dijadikan satu dalam sebuah database, saya akan berikan user dan password yang akan bisa kalian guanakan untuk input data.
+- Cara melakukan input ke database akan dibahas pada kuliah minggu ini.
+- Akses user dan password ke database dan ke PhpMyAdmin akan diberikan juga minggu ini.
+- Dikerjakan perkelompok, usahakan kelompoknya " *sebisa mungkin* " sama dengan yang kelompok MK Metode Penelitian.
+
+3. [Data Mining] - Exploratory Data Analysis
+- Lakukan EDA dan propose hipotesis yang bisa diuji dari data yang ada.
+- Materi EDA akan dibahas hari/minggu ini.
+- Dikerjakan perkelompok, usahakan kelompoknya " *sebisa mungkin* " sama dengan yang kelompok MetLit dan basis data.
+- Dikerjakan di Jupyter Notebook dan diupload ke GitHub yang sama dengan No. 2. Jangan lupa narasi informasi/insight/rekomendasi yang didapatkan dari proses EDA yang dilakukan.
+- Saya membuat folder "images" & "data" agar file upload menjadi lebih rapih. Mohon upload file-file disesuaikan dengan folder-folder tersebut.
+
+*Deadline semua tugas diatas adalah 8 April 2020 (2 minggu)*
+
+Terlepas dari nilai (kuliah), ada misi mulia turut berkontribusi untuk negeri dan bahkan kemanusiaan dengan apa yang kita bisa. Karena kita berlomba dengan waktu, jadi kalau bisa secepat mungkin dan segiat mungkin dalam mengerjakannya.
