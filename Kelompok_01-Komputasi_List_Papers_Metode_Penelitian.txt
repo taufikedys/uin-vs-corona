@@ -14,3 +14,8 @@ List Paper :
 
 3. Hu, Zixin et al "Artificial Intelligence Forecasting of Covid-19 in China" arXiv preprint arXiv:2002.07112 (2020)
 
+4. Rothan, H. A., & Byrareddy, S. N. (2020). The epidemiology and pathogenesis of coronavirus disease (COVID-19) outbreak. In Journal of Autoimmunity. https://doi.org/10.1016/j.jaut.2020.102433
+
+5. Sohrabi, C., Alsafi, Z., O’Neill, N., Khan, M., Kerwan, A., Al-Jabir, A., … Agha, R. (2020). World Health Organization declares global emergency: A review of the 2019 novel coronavirus (COVID-19). International Journal of Surgery. https://doi.org/10.1016/j.ijsu.2020.02.034
+
+6. Gostic, K. M., Gomez, A. C. R., Mummah, R. O., Kucharski, A. J., & Lloyd-Smith, J. O. (2020). Estimated effectiveness of symptom and risk screening to prevent the spread of COVID-19. ELife. https://doi.org/10.7554/eLife.55570
