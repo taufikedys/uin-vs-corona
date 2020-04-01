@@ -1,0 +1,18 @@
+Tugas Mata Kuliah Metode Penelitian
+Nama Anggota:
+Amirah Bonita
+Laila Khodriatun Khasanah
+Serin Tias Sidqi
+Novi Fitianingrum
+Delia Nur Rizki
+Suci Rama Wahyuni
+
+List Paper:
+1.  "Clinical features of patients infected with 2019 novel coronavirus in Wuhan,China"
+	HuangC,WangY,LiX,etal.Lancet(2020)
+2.  "Cardiac Involvement in a Patient With Coronavirus Disease 2019 (COVID-19)".
+	Riccardo M. Inciardi, MD1; Laura Lupi, MD1; Gregorio Zaccone, MD1; et al. JAMA 	Cardiology(2020)
+3. "Cardiovascular Implications of Fatal Outcomes of Patients With Coronavirus Disease 2019 (COVID-19)"
+	Tao Guo, MD1; Yongzhen Fan, MD1; Ming Chen, MD1; et al . JAMA Cardiology(2020)
+4. "Presumed Asymptomatic Carrier Transmission of Covid-19"
+	Yan Bai, MD1; Lingsheng Yao, MD2; Tao Wei, MD3; et al
