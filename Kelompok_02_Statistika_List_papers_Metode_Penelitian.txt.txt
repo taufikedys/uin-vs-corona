@@ -1,0 +1,25 @@
+﻿Tugas  Mata  Kuliah  Metode  Penelitian
+
+Nama Anggota :
+Adeline Hikmalia Iqbal
+Arzalia Ardheasari
+Azahra Benita
+Intan Lucky Rahayu
+Shana Safira Sofwan  
+Syaqatun Nabilah
+
+List Paper:
+    1. Estimation of the reproductive number of novel coronavirus (COVID-19) and the probale outbreak size on the Diamond Princess cruise ship : A data-driven analysis
+https://www.sciencedirect.com/science/article/pii/S1201971220300916
+    2. Analysis and forecast of COVID-19 spreasing in China, Italy and France
+https://www.sciencedirect.com/science/article/pii/S0960077920301636
+    3. Trend and forecasting of the COVID-19 outbreak in China
+https://arxiv.org/abs/2002.05866
+    4. Critical care utilization for the COVID-19 outbreak in Lombardy, Italy
+https://jamanetwork.com/journals/jama/article-abstract/2763188
+    5. Real-time forecast of the COVID -19 epidemic in China from  February 5th  to February 24th , 2020
+https://www.sciencedirect.com/science/article/pii/S2468042720300051
+    6. COVID-19 and Italy : what next? 
+https://www.sciencedirect.com/science/article/pii/S0140673620306279?pes=vor
+    7. The Global Macroeconomic Impacts of COVID-19: Seven Scenarios
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3547729
