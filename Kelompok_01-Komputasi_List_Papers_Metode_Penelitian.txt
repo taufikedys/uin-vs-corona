@@ -10,7 +10,7 @@ Hany Rahmanita
 List Paper :
 1. Tian, Sijia, et al. "Characteristics of COVID-19 infection in Beijing." Journal of Infection (2020).
 
-2. Sun, Pengfei, et al. "Understanding of COVID‐19 based on current evidence." Journal of medical virology (2020).
+2. Benvenuto, Domenico, et al. "The 2019‐new coronavirus epidemic: evidence for virus evolution." Journal of Medical Virology 92.4 (2020): 455-459. https://onlinelibrary.wiley.com/doi/epdf/10.1002/jmv.25688
 
 3. Hu, Zixin et al "Artificial Intelligence Forecasting of Covid-19 in China" arXiv preprint arXiv:2002.07112 (2020)
 
