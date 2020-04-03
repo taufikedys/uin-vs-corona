@@ -8,8 +8,11 @@ Nama Angggota
 
 List Paper 
 1. Chinazzi, M., Davis, J. T., Ajelli, M., Gioannini, C., Litvinova, M., Merler, S., Pastore Y Piontti, A., Mu, K., Rossi, L., Sun, K., Viboud, C., Xiong, X., Yu, H., Halloran, M. E., Longini, I. M., & Vespignani, A. (2020). The effect of travel restrictions on the spread of the 2019 novel coronavirus (COVID-19) outbreak. Science (New York, N.Y.). https://doi.org/10.1126/science.aba9757
-2. Lau, H., Khosrawipour, V., Kocbach, P., Mikolajczyk, A., Schubert, J., Bania, J., & Khosrawipour, T. (2020). The positive impact of lockdown in Wuhan on containing the COVID-19 outbreak in China. Journal of Travel Medicine. https://doi.org/10.1093/jtm/taaa037
-3. Lauer, S. A., Grantz, K. H., Bi, Q., Jones, F. K., Zheng, Q., Meredith, H. R., Azman, A. S., Reich, N. G., & Lessler, J. (2020). The Incubation Period of Coronavirus Disease 2019 (COVID-19) From Publicly Reported Confirmed Cases: Estimation and Application. Annals of Internal Medicine. https://doi.org/10.7326/M20-0504
-4. Mizumoto, K., & Chowell, G. (2020). Estimating Risk for Death from 2019 Novel Coronavirus Disease, China, January-February 2020. Emerging Infectious Diseases. https://doi.org/10.3201/eid2606.200233
-5. Jung, S.-M., Akhmetzhanov, A. R., Hayashi, K., Linton, N. M., Yang, Y., Yuan, B., Kobayashi, T., Kinoshita, R., & Nishiura, H. (2020). Real-Time Estimation of the Risk of Death from Novel Coronavirus (COVID-19) Infection: Inference Using Exported Cases. Journal of Clinical Medicine. https://doi.org/10.3390/jcm9020523
+2. Deng, S.-Q., & Peng, H.-J. (2020). Characteristics of and Public Health Responses to the Coronavirus Disease 2019 Outbreak in China. Journal of Clinical Medicine. https://doi.org/10.3390/jcm9020575
+3. Lau, H., Khosrawipour, V., Kocbach, P., Mikolajczyk, A., Schubert, J., Bania, J., & Khosrawipour, T. (2020). The positive impact of lockdown in Wuhan on containing the COVID-19 outbreak in China. Journal of Travel Medicine. https://doi.org/10.1093/jtm/taaa037
+4. Lauer, S. A., Grantz, K. H., Bi, Q., Jones, F. K., Zheng, Q., Meredith, H. R., Azman, A. S., Reich, N. G., & Lessler, J. (2020). The Incubation Period of Coronavirus Disease 2019 (COVID-19) From Publicly Reported Confirmed Cases: Estimation and Application. Annals of Internal Medicine. https://doi.org/10.7326/M20-0504
+5. Mizumoto, K., & Chowell, G. (2020). Estimating Risk for Death from 2019 Novel Coronavirus Disease, China, January-February 2020. Emerging Infectious Diseases. https://doi.org/10.3201/eid2606.200233
+6. Jung, S.-M., Akhmetzhanov, A. R., Hayashi, K., Linton, N. M., Yang, Y., Yuan, B., Kobayashi, T., Kinoshita, R., & Nishiura, H. (2020). Real-Time Estimation of the Risk of Death from Novel Coronavirus (COVID-19) Infection: Inference Using Exported Cases. Journal of Clinical Medicine. https://doi.org/10.3390/jcm9020523
+
+
 
