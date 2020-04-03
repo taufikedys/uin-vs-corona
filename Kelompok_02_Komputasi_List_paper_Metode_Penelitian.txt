@@ -14,3 +14,4 @@ List Paper:
 5. Deng, S.-Q., & Peng, H.-J. (2020). Characteristics of and Public Health Responses to the Coronavirus Disease 2019 Outbreak in China. Journal of Clinical Medicine. https://doi.org/10.3390/jcm9020575
 6. PUNG, Rachael, et al. Investigation of three clusters of COVID-19 in Singapore: implications for surveillance and response measures. The Lancet, 2020.
 7. Wilder-Smith, A., Chiew, C. J., & Lee, V. J. (2020). Can we contain the COVID-19 outbreak with the same measures as for SARS? The Lancet. Infectious Diseases. https://doi.org/10.1016/S1473-3099(20)30129-8
+8. Lauer, S. A., Grantz, K. H., Bi, Q., Jones, F. K., Zheng, Q., Meredith, H. R., Azman, A. S., Reich, N. G., & Lessler, J. (2020). The Incubation Period of Coronavirus Disease 2019 (COVID-19) From Publicly Reported Confirmed Cases: Estimation and Application. Annals of Internal Medicine. https://doi.org/10.7326/M20-0504
