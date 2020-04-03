@@ -23,3 +23,5 @@ https://www.sciencedirect.com/science/article/pii/S2468042720300051
 https://www.sciencedirect.com/science/article/pii/S0140673620306279?pes=vor
     7. The Global Macroeconomic Impacts of COVID-19: Seven Scenarios
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3547729
+    8. Clinical characteristics of 2019 novel coronavirus infection in China
+https://www.nejm.org/doi/pdf/10.1056/NEJMoa2002032
