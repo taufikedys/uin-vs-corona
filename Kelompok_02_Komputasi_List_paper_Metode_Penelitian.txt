@@ -12,3 +12,4 @@ List Paper:
 3. Khan, M., Kazmi, S., Bashir, A., & Siddique, N. (2020). COVID-19 infection: origin, transmission, and characteristics of human coronaviruses. Journal of Advanced Research. https://doi.org/10.1016/j.jare.2020.03.005
 4. Wang, C. J., Ng, C. Y., & Brook, R. H. (2020). Response to COVID-19 in Taiwan: Big Data Analytics, New Technology, and Proactive Testing. In JAMA - Journal of the American Medical Association. https://doi.org/10.1001/jama.2020.3151
 5. Deng, S.-Q., & Peng, H.-J. (2020). Characteristics of and Public Health Responses to the Coronavirus Disease 2019 Outbreak in China. Journal of Clinical Medicine. https://doi.org/10.3390/jcm9020575
+6. PUNG, Rachael, et al. Investigation of three clusters of COVID-19 in Singapore: implications for surveillance and response measures. The Lancet, 2020.
