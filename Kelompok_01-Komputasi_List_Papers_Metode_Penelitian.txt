@@ -10,12 +10,13 @@ Hany Rahmanita
 List Paper :
 1. Tian, Sijia, et al. "Characteristics of COVID-19 infection in Beijing." Journal of Infection (2020).
 
-2. Benvenuto, Domenico, et al. "The 2019‐new coronavirus epidemic: evidence for virus evolution." Journal of Medical Virology 92.4 (2020): 455-459. https://onlinelibrary.wiley.com/doi/epdf/10.1002/jmv.25688
+2. Hu, Zixin et al "Artificial Intelligence Forecasting of Covid-19 in China" arXiv preprint arXiv:2002.07112 (2020).
 
-3. Hu, Zixin et al "Artificial Intelligence Forecasting of Covid-19 in China" arXiv preprint arXiv:2002.07112 (2020)
+3. Benvenuto, Domenico, et al. "The 2019‐new coronavirus epidemic: evidence for virus evolution." Journal of Medical Virology 92.4 (2020): 455-459. https://onlinelibrary.wiley.com/doi/epdf/10.1002/jmv.25688
 
-4. Rothan, H. A., & Byrareddy, S. N. (2020). The epidemiology and pathogenesis of coronavirus disease (COVID-19) outbreak. In Journal of Autoimmunity. https://doi.org/10.1016/j.jaut.2020.102433
+4. Pogrebna, G., Kharlamov, Alexander A, The Impact of Cross-Cultural Differences in
+Handwashing Patterns on the COVID-19 Outbreak Magnitude
 
-5. Early dynamics of transmission and control of COVID-19: a mathematical modelling study 
+5. Jit, Mark, et al. "Early dynamics of transmission and control of COVID-19: a mathematical modelling study."
 
-6. Gostic, K. M., Gomez, A. C. R., Mummah, R. O., Kucharski, A. J., & Lloyd-Smith, J. O. (2020). Estimated effectiveness of symptom and risk screening to prevent the spread of COVID-19. ELife. https://doi.org/10.7554/eLife.55570
+6. Ji, Wei, et al. "Cross‐species transmission of the newly identified coronavirus 2019‐nCoV." Journal of Medical Virology 92.4 (2020): 433-440.
