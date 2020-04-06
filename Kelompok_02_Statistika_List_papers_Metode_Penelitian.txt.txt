@@ -13,10 +13,10 @@ List Paper:
 https://www.sciencedirect.com/science/article/pii/S1201971220300916
 2. Analysis and forecast of COVID-19 spreasing in China, Italy and France
 https://www.sciencedirect.com/science/article/pii/S0960077920301636
-3. Trend and forecasting of the COVID-19 outbreak in China
-https://arxiv.org/abs/2002.05866
-4. Critical care utilization for the COVID-19 outbreak in Lombardy, Italy
-https://jamanetwork.com/journals/jama/article-abstract/2763188
+3. Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus–Infected Pneumonia
+https://www.nejm.org/doi/10.1056/NEJMoa2001316
+4. Population movement, city closure and spatial transmission of the 2019-nCoV infection in China
+https://www.medrxiv.org/content/10.1101/2020.02.04.20020339v1.full.pdf
 5. Real-time forecast of the COVID -19 epidemic in China from  February 5th  to February 24th , 2020
 https://www.sciencedirect.com/science/article/pii/S2468042720300051
 6. PATTERN OF EARLY HUMAN-TO-HUMAN TRANSMISSION OF WUHAN 2019-NCOV
