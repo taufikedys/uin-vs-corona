@@ -13,4 +13,3 @@ List Paper:
 4. Wang, C. J., Ng, C. Y., & Brook, R. H. (2020). Response to COVID-19 in Taiwan: Big Data Analytics, New Technology, and Proactive Testing. In JAMA - Journal of the American Medical Association. https://doi.org/10.1001/jama.2020.3151
 5. PUNG, Rachael, et al. Investigation of three clusters of COVID-19 in Singapore: implications for surveillance and response measures. The Lancet, 2020.
 6. Wilder-Smith, A., Chiew, C. J., & Lee, V. J. (2020). Can we contain the COVID-19 outbreak with the same measures as for SARS? The Lancet. Infectious Diseases. https://doi.org/10.1016/S1473-3099(20)30129-8
-7. Lauer, S. A., Grantz, K. H., Bi, Q., Jones, F. K., Zheng, Q., Meredith, H. R., Azman, A. S., Reich, N. G., & Lessler, J. (2020). The Incubation Period of Coronavirus Disease 2019 (COVID-19) From Publicly Reported Confirmed Cases: Estimation and Application. Annals of Internal Medicine. https://doi.org/10.7326/M20-0504
