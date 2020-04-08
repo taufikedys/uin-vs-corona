@@ -20,3 +20,7 @@ Handwashing Patterns on the COVID-19 Outbreak Magnitude
 5. Jit, Mark, et al. "Early dynamics of transmission and control of COVID-19: a mathematical modelling study."
 
 6. Ji, Wei, et al. "Cross‐species transmission of the newly identified coronavirus 2019‐nCoV." Journal of Medical Virology 92.4 (2020): 433-440.
+
+Data Set
+- https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
+- https://www.kaggle.com/kimjihoo/coronavirusdataset
