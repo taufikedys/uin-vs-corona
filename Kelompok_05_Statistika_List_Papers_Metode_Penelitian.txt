@@ -10,17 +10,21 @@ Siti Zalfarosa S
 List Paper :
 1. Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus–Infected Pneumonia in Wuhan, China
 https://jamanetwork.com/journals/jama/fullarticle/2761044
-2. Clinical characteristics and intrauterine vertical transmission potential of COVID-19 infection in nine pregnant women: a retrospective review of medical records
+2. Importation and Human-to-Human Transmission of a Novel Coronavirus in Vietnam
+https://www.nejm.org/doi/10.1056/NEJMc2001272
+3. Clinical characteristics and intrauterine vertical transmission potential of COVID-19 infection in nine pregnant women: a retrospective review of medical records
 https://www.sciencedirect.com/science/article/pii/S0140673620303603#bib3
-3. Epidemiologic Features and Clinical Course of Patients Infected With SARS-CoV-2 in Singapore
-https://jamanetwork.com/journals/jama/article-abstract/2762688
-4. Evaluation of SARS-CoV-2 RNA shedding in clinical specimens and clinical characteristics of 10 patients with COVID-19 in Macau
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7098032/
-5. Clinical features of COVID-19 in elderly patients: A comparison with young and middle-aged patients
-https://www.sciencedirect.com/science/article/pii/S016344532030116X
-6. Clinical features and dynamics of viral load in imported and non-imported patients with COVID-19
-https://www.sciencedirect.com/science/article/pii/S1201971220301417
-7. Clinical and epidemiological features of 36 children with coronavirus disease 2019 (COVID-19) in Zhejiang, China: an observational cohort study
+4. Detection of 2019 novel coronavirus (2019-nCoV) by real-time RT-PCR
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6988269/
+5. Clinical and epidemiological features of 36 children with coronavirus disease 2019 (COVID-19) in Zhejiang, China: an observational cohort study
 https://www.sciencedirect.com/science/article/pii/S1473309920301985
-8. Clinical findings in a group of patients infected with the 2019 novel coronavirus (SARS-Cov-2) outside of Wuhan, China: retrospective case series
-https://www.bmj.com/content/368/bmj.m606
+6. An updated estimation of the risk of transmission of the novel coronavirus (2019-nCov)
+https://www.sciencedirect.com/science/article/pii/S246804272030004X
+7. Estimation of the Transmission Risk of the 2019-nCoV and Its Implication for Public Health Interventions
+https://www.mdpi.com/2077-0383/9/2/462
+8. Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30260-9/fulltext
+
+Dataset :
+1. https://www.kaggle.com/brendaso/2019-coronavirus-dataset-01212020-01262020
+2. https://www.kaggle.com/imdevskp/corona-virus-report
