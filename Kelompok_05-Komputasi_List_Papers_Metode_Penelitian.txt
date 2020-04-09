@@ -18,8 +18,9 @@ Estimating Risk for Death from 2019 Novel Coronavirus Disease, China, January-Fe
 4. Jung, S.-M., Akhmetzhanov, A. R., Hayashi, K., Linton, N. M., Yang, Y., Yuan, B., Kobayashi, T., Kinoshita, R., & Nishiura, H. (2020). 
 Real-Time Estimation of the Risk of Death from Novel Coronavirus (COVID-19) Infection: Inference Using Exported Cases. Journal of Clinical Medicine. https://doi.org/10.3390/jcm9020523
 
-5. Team, T. N. C. P. E. R. E. (2020). 
-The Epidemiological Characteristics of an Outbreak of 2019 Novel Coronavirus Diseases (COVID-19) — China, 2020. China CDC Weekly.
+5.  Linton NM, Kobayashi T, Yang Y, et al (2020). 
+Incubation period and other epidemiological characteristics of 2019 novel coronavirus infections with right truncation: a statistical analysis of publicly available case data. J Clin Med ;9. [PMID: 32079150] doi:10.3390 /jcm9020538
+
 
 6.  Virlogeux V, Fang VJ, Park M, et al (2016). 
 Comparison of incubation period distribution of human infections with MERS-CoV in South KoreaandSaudiArabia.SciRep.2016;6:35839.[PMID:27775012]doi: 10.1038/srep35839 
