@@ -16,3 +16,8 @@ List Paper:
 	Tao Guo, MD1; Yongzhen Fan, MD1; Ming Chen, MD1; et al . JAMA Cardiology(2020)
 4. "Presumed Asymptomatic Carrier Transmission of Covid-19"
 	Yan Bai, MD1; Lingsheng Yao, MD2; Tao Wei, MD3; et al
+5. "Asymptomatic carrier state, acute respiratory disease, and pneumonia due to severe acute respiratory syndrome coronavirus 2 (SARS-CoV- 2): Facts and myths"
+	Chih-Cheng Lai et al
+6. "The outbreak of COVID-19: An overview"
+	Yi-Chi Wua, Ching-Sung Chena, Yu-Jiun Chana,b,c,*
+
