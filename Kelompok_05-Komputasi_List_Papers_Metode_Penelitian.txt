@@ -5,28 +5,27 @@ Nama Angggota
 - Ujang Hasanudin
 - Siti Aenun Naimatul Jannah
 
-
 List Paper
-1. Boldog, P., Tekeli, T., Vizi, Z., Dénes, A., Bartha, F. A., & Röst, G. (2020). 
-Risk Assessment of Novel Coronavirus COVID-19 Outbreaks Outside China. Journal of Clinical Medicine. https://doi.org/10.3390/jcm9020571
-
-2. Chinazzi, M., Davis, J. T., Ajelli, M., Gioannini, C., Litvinova, M., Merler, S., Pastore Y Piontti, A., Mu, K., Rossi, L., Sun, K., Viboud, C., Xiong, X., Yu, H., Halloran, M. E., Longini, I. M., & Vespignani, A. (2020). 
+1. Chinazzi, M., Davis, J. T., Ajelli, M., Gioannini, C., Litvinova, M., Merler, S., Pastore Y Piontti, A., Mu, K., Rossi, L., Sun, K., Viboud, C., Xiong, X., Yu, H., Halloran, M. E., Longini, I. M., & Vespignani, A. (2020). 
 The effect of travel restrictions on the spread of the 2019 novel coronavirus (COVID-19) outbreak. Science (New York, N.Y.). https://doi.org/10.1126/science.aba9757
 
-3. Deng, S.-Q., & Peng, H.-J. (2020). 
-Characteristics of and Public Health Responses to the Coronavirus Disease 2019 Outbreak in China. Journal of Clinical Medicine. https://doi.org/10.3390/jcm9020575
-
-4. Lau, H., Khosrawipour, V., Kocbach, P., Mikolajczyk, A., Schubert, J., Bania, J., & Khosrawipour, T. (2020). 
-The positive impact of lockdown in Wuhan on containing the COVID-19 outbreak in China. Journal of Travel Medicine. https://doi.org/10.1093/jtm/taaa037
-
-5. Lauer, S. A., Grantz, K. H., Bi, Q., Jones, F. K., Zheng, Q., Meredith, H. R., Azman, A. S., Reich, N. G., & Lessler, J. (2020). 
+2. Lauer, S. A., Grantz, K. H., Bi, Q., Jones, F. K., Zheng, Q., Meredith, H. R., Azman, A. S., Reich, N. G., & Lessler, J. (2020). 
 The Incubation Period of Coronavirus Disease 2019 (COVID-19) From Publicly Reported Confirmed Cases: Estimation and Application. Annals of Internal Medicine. https://doi.org/10.7326/M20-0504
 
-6. Mizumoto, K., & Chowell, G. (2020). 
+3. Mizumoto, K., & Chowell, G. (2020). 
 Estimating Risk for Death from 2019 Novel Coronavirus Disease, China, January-February 2020. Emerging Infectious Diseases. https://doi.org/10.3201/eid2606.200233
 
-7. Jung, S.-M., Akhmetzhanov, A. R., Hayashi, K., Linton, N. M., Yang, Y., Yuan, B., Kobayashi, T., Kinoshita, R., & Nishiura, H. (2020). 
+4. Jung, S.-M., Akhmetzhanov, A. R., Hayashi, K., Linton, N. M., Yang, Y., Yuan, B., Kobayashi, T., Kinoshita, R., & Nishiura, H. (2020). 
 Real-Time Estimation of the Risk of Death from Novel Coronavirus (COVID-19) Infection: Inference Using Exported Cases. Journal of Clinical Medicine. https://doi.org/10.3390/jcm9020523
+
+5. Team, T. N. C. P. E. R. E. (2020). 
+The Epidemiological Characteristics of an Outbreak of 2019 Novel Coronavirus Diseases (COVID-19) — China, 2020. China CDC Weekly.
+
+6.  Virlogeux V, Fang VJ, Park M, et al (2016). 
+Comparison of incubation period distribution of human infections with MERS-CoV in South KoreaandSaudiArabia.SciRep.2016;6:35839.[PMID:27775012]doi: 10.1038/srep35839 
+
+7. Zhu N, Zhang D, Wang W, et al; China Novel Coronavirus Investigating and Research Team (2019).
+A novel coronavirus from patients with pneumoniainChina.NEnglJMed.2020;382:727-733.[PMID: 31978945] doi:10.1056/NEJMoa2001017
 
 Dataset:
 1. https://www.kaggle.com/ardisragen/indonesia-coronavirus-cases
