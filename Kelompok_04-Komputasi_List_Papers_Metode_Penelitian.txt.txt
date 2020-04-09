@@ -1,0 +1,26 @@
+Kelompok 4 Metode Penelitian (Komputasi)
+Nama Kelompok:
+1. Yulisnawati
+2. Fany Andisa
+3. Adrian Fajar
+4. Ibrahim Farhan
+5. Fatih Al-Gusda 
+
+List Paper:
+1. the hearth of mathematical and statistical modelling during the
+Coronavirus pandemic
+Author(s): Luca Bertolaccini and Lorenzo Spaggiari
+2. a Mathematical model for simulating the phase-based transmissibility of a novel coronavirus
+Author(s): Tian-Mu Chen, Jia Rui, Qiu-Peng Wang, Ze-Yu Zhao,Jing-An Cui, and Ling Yin
+3. Breakthrough: Chloroquine phosphate has shown apparent efficacy in treatment of COVID-19 associated pneumonia in clinical studies
+Author(s): Jianjun Gao, Zhenxue Tian, and Xu Yang
+4. The reproductive number of COVID-19 is higher compared to SARS coronavirus
+Author(s): Ying Liu, Albert A. Gayle, Annelies Wilder-Smith,and Joacim Rocklöv
+5. Prediction models for diagnosis and prognosis of covid-19 infection: systematic review and critical appraisal
+Author(s): Laure Wynants, et al.
+6. A cluster randomised trial of cloth masks compared with medical masks in healthcare workers
+Author(s): C Raina MacIntyre, et al.
+
+Dataset:
+https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
+https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge
