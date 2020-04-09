@@ -13,7 +13,7 @@ List Paper:
 4. Wang, C. J., Ng, C. Y., & Brook, R. H. (2020). Response to COVID-19 in Taiwan: Big Data Analytics, New Technology, and Proactive Testing. In JAMA - Journal of the American Medical Association. https://doi.org/10.1001/jama.2020.3151
 5. PUNG, Rachael, et al. Investigation of three clusters of COVID-19 in Singapore: implications for surveillance and response measures. The Lancet, 2020.
 6. Wilder-Smith, A., Chiew, C. J., & Lee, V. J. (2020). Can we contain the COVID-19 outbreak with the same measures as for SARS? The Lancet. Infectious Diseases. https://doi.org/10.1016/S1473-3099(20)30129-8
-7. Wong, H. Y. F., Lam, H. Y. S., Fong, A. H.-T., Leung, S. T., Chin, T. W.-Y., Lo, C. S. Y., Lui, M. M.-S., Lee, J. C. Y., Chiu, K. W.-H., Chung, T., Lee, E. Y. P., Wan, E. Y. F., Hung, F. N. I., Lam, T. P. W., Kuo, M., & Ng, M.-Y. (2019). Frequency and Distribution of Chest Radiographic Findings in COVID-19 Positive Patients. Radiology. https://doi.org/10.1148/radiol.2020201160
+7. Ghinai, I., McPherson, T. D., Hunter, J. C., Kirking, H. L., Christiansen, D., Joshi, K., Rubin, R., Morales-Estrada, S., Black, S. R., Pacilli, M., Fricchione, M. J., Chugh, R. K., Walblay, K. A., Ahmed, N. S., Stoecker, W. C., Hasan, N. F., Burdsall, D. P., Reese, H. E., Wallace, M., … Layden, J. E. (2020). First known person-to-person transmission of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in the USA. The Lancet. https://doi.org/10.1016/S0140-6736(20)30607-3
 
 
 Dataset:
