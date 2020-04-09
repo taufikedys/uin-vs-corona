@@ -3,7 +3,7 @@ Nama Angggota
 - Tira Amalia
 - Irman Suryana
 - Ujang Hasanudin
-- Siti Aenun Naimatuul Jannah
+- Siti Aenun Naimatul Jannah
 
 
 List Paper
@@ -15,7 +15,8 @@ List Paper
 6. Mizumoto, K., & Chowell, G. (2020). Estimating Risk for Death from 2019 Novel Coronavirus Disease, China, January-February 2020. Emerging Infectious Diseases. https://doi.org/10.3201/eid2606.200233
 7. Jung, S.-M., Akhmetzhanov, A. R., Hayashi, K., Linton, N. M., Yang, Y., Yuan, B., Kobayashi, T., Kinoshita, R., & Nishiura, H. (2020). Real-Time Estimation of the Risk of Death from Novel Coronavirus (COVID-19) Infection: Inference Using Exported Cases. Journal of Clinical Medicine. https://doi.org/10.3390/jcm9020523
 
-List data:
+Dataset:
 1. https://www.kaggle.com/ardisragen/indonesia-coronavirus-cases
+2. https://www.kaggle.com/vignesh1694/covid19-coronavirus
 
 
