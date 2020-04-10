@@ -23,4 +23,5 @@ Handwashing Patterns on the COVID-19 Outbreak Magnitude
 
 Data Set
 - https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
+- https://www.kaggle.com/ardisragen/indonesia-coronavirus-cases
 - https://www.kaggle.com/kimjihoo/coronavirusdataset
