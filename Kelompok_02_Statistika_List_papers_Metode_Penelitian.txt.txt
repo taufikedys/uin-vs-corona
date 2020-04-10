@@ -28,5 +28,4 @@ https://www.nejm.org/doi/pdf/10.1056/NEJMoa2002032
 
 dataset :
 1. https://data.humdata.org/dataset/ecdc-covid-19
-2. https://data.europa.eu/euodp/en/data/dataset/covid-19-coronavirus-data/resource/62eb477f-be00-462a-831a-594095f7306a
-3. https://data.europa.eu/euodp/en/data/dataset/covid-19-coronavirus-data
+2. https://data.europa.eu/euodp/en/data/dataset/covid-19-coronavirus-data
