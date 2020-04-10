@@ -26,5 +26,5 @@ Author(s): Lin Li, et al.
 Dataset:
 1. https://github.com/datasets/covid-19/tree/master/data
 2. https://data.humdata.org/m/dataset/indonesia-covid-19-cases-recoveries-and-deaths-per-province
-3. https://www.kaggle.com/sudalairajkumar/covid19-in-usa
+3. https://www.kaggle.com/sudalairajkumar/covid19-in-usa (USA Only)
 
