@@ -17,3 +17,4 @@ List Journal:
 
 Data set:
 https://www.kaggle.com/ardisragen/indonesia-coronavirus-cases
+https://www.kaggle.com/ryanxjhan/coronaviruscovid19-canada
