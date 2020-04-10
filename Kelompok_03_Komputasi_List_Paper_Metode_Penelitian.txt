@@ -17,3 +17,4 @@ List Journal:
 
 Data set:
 https://www.kaggle.com/ryanxjhan/coronaviruscovid19-canada
+https://data.world/covid-19-data-resource-hub/covid-19-case-counts
