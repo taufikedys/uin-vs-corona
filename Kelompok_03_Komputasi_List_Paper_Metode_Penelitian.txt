@@ -16,5 +16,4 @@ List Journal:
 6. Kobayashi, T., Jung, S., Linton, N., Kinoshita, R., Hayashi, K., Miyama, T., et al. (2020). Communicating the Risk of Death from Novel. Journal of Clinical Madichine.
 
 Data set:
-https://www.kaggle.com/ardisragen/indonesia-coronavirus-cases
 https://www.kaggle.com/ryanxjhan/coronaviruscovid19-canada
