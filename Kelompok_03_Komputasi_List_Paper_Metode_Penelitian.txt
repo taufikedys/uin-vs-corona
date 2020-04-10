@@ -14,3 +14,6 @@ List Journal:
 4. Yuanyuan Dong, MD. Xi Mo, PhD., Yabin Hu, MD., Xin Qi, PhD, Jiang, F., Zhongyi Jiang, MD, et al.(2020). Epidemiology of COVID-19 Among Children in China. PEDIATRICS.
 5. TORSELLO, M., & WINKLER, M. M. (2020). Coronavirus-infected international business transactions: a preliminary diagnosis. European Journal of Risk Regulation.
 6. Kobayashi, T., Jung, S., Linton, N., Kinoshita, R., Hayashi, K., Miyama, T., et al. (2020). Communicating the Risk of Death from Novel. Journal of Clinical Madichine.
+
+Data set:
+https://www.kaggle.com/ardisragen/indonesia-coronavirus-cases
