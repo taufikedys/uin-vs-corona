@@ -11,7 +11,12 @@ List Paper
 
 1. Parwanto, M. (2020). Virus Corona (2019-nCoV) penyebab COVID-19. Jurnal Biomedika Dan Kesehatan, 3(1), 1–2. https://doi.org/10.18051/JBiomedKes.2020.v3.1-2
 2. Chan, K. H., Peiris, J. S. M., Lam, S. Y., Poon, L. L. M., Yuen, K. Y., & Seto, W. H. (2011). The effects of temperature and relative humidity on the viability of the SARS coronavirus. Advances in Virology, 2011. https://doi.org/10.1155/2011/734690
-3. Van Der Hoek, L., Pyrc, K., Jebbink, M. F., Vermeulen-Oost, W., Berkhout, R. J. M., Wolthers, K. C., Wertheim-Van Dillen, P. M. E., Kaandorp, J., Spaargaren, J., & Berkhout, B. (2004). Identification of a new human coronavirus. Nature Medicine, 10(4), 368–373. https://doi.org/10.1038/nm1024
-4. Woo, P. C. Y., Lau, S. K. P., Chu, C. -m., Chan, K. -h., Tsoi, H. -w., Huang, Y., Wong, B. H. L., Poon, R. W. S., Cai, J. J., Luk, W. -k., Poon, L. L. M., Wong, S. S. Y., Guan, Y., Peiris, J. S. M., & Yuen, K. -y. (2005). Characterization and Complete Genome Sequence of a Novel Coronavirus, Coronavirus HKU1, from Patients with Pneumonia. Journal of Virology, 79(2), 884–895. https://doi.org/10.1128/jvi.79.2.884-895.2005
-5. Chan, K. H., Peiris, J. S. M., Lam, S. Y., Poon, L. L. M., Yuen, K. Y., & Seto, W. H. (2011). The effects of temperature and relative humidity on the viability of the SARS coronavirus. Advances in Virology, 2011. https://doi.org/10.1155/2011/734690
-6. Sun, H., Dickens, B. L., Chen, M., Cook, A. R., & Clapham, H. E. (2020). Estimating number of global importations of COVID-19 from Wuhan, risk of transmission outside mainland China and COVID-19 introduction index between countries outside mainland China. medRxiv, 2020.02.17.20024075. https://doi.org/10.1101/2020.02.17.20024075
+3. Sun, H., Dickens, B. L., Chen, M., Cook, A. R., & Clapham, H. E. (2020). Estimating number of global importations of COVID-19 from Wuhan, risk of transmission outside mainland China and COVID-19 introduction index between countries outside mainland China. medRxiv, 2020.02.17.20024075. https://doi.org/10.1101/2020.02.17.20024075
+4.Liu, W., Tao, Z.-W., Lei, W., Ming-Li, Y., Kui, L., Ling, Z., Shuang, W., Yan, D., Jing, L., Liu, H.-G., Ming, Y., & Yi, H. (2020). Analysis of factors associated with disease outcomes in hospitalized patients with 2019 novel coronavirus disease. Chinese Medical Journal, 1. https://doi.org/10.1097/cm9.0000000000000775
+5.Giovanetti, M., Benvenuto, D., Angeletti, S., & Ciccozzi, M. (2020). The first two cases of 2019-nCoV in Italy: Where they come from? Journal of Medical Virology, 92(5), 518–521. https://doi.org/10.1002/jmv.25699
+6.Watkins, J. (2020). Preventing a covid-19 pandemic. In The BMJ (Vol. 368). https://doi.org/10.1136/bmj.m810
+
+List Dataset
+
+1. https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
+2. https://www.kaggle.com/anjanatiha/corona-virus-time-series-dataset
