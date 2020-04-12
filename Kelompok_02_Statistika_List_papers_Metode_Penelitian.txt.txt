@@ -25,3 +25,8 @@ https://doi.org/10.1101/2020.01.23.917351
 https://www.medrxiv.org/content/10.1101/2020.01.23.20018549v1.full.pdf
 8. Clinical characteristics of 2019 novel coronavirus infection in China
 https://www.nejm.org/doi/pdf/10.1056/NEJMoa2002032
+
+dataset :
+1. https://data.humdata.org/dataset/ecdc-covid-19
+2. https://data.europa.eu/euodp/en/data/dataset/covid-19-coronavirus-data
+3. https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports
