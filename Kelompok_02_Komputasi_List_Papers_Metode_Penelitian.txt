@@ -17,6 +17,6 @@ List Paper:
 8. Prem, K., Liu, Y., Russell, T. W., Kucharski, A. J., Eggo, R. M., Davies, N., Jit, M., Klepac, P., Flasche, S., Clifford, S., Pearson, C. A. B., Munday, J. D., Abbott, S., Gibbs, H., Rosello, A., Quilty, B. J., Jombart, T., Sun, F., Diamond, C., … Hellewell, J. (2020). The effect of control strategies to reduce social mixing on outcomes of the COVID-19 epidemic in Wuhan, China: a modelling study. The Lancet Public Health. https://doi.org/10.1016/s2468-2667(20)30073-6
 
 Dataset:
-1. https://www.kaggle.com/unanimad/corona-virus-brazil/version/58
-2. https://www.kaggle.com/parulpandey/coronavirus-cases-in-india
+1. https://bnpb-inacovid19.hub.arcgis.com/datasets/covid19-indonesia-per-provinsi
+2. https://databoks.katadata.co.id/datapublish/2020/04/09/132-rumah-sakit-rujukan-covid-19-di-indonesia
 3. https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases
