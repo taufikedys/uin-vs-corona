@@ -23,4 +23,4 @@ List Paper:
 
 list dataset:
 1. https://data.humdata.org/dataset/total-covid-19-tests-performed-by-country
-2. https://www.kaggle.com/imdevskp/corona-virus-report
+2. https://www.kaggle.com/fireballbyedimyrnmom/us-counties-covid-19-dataset
