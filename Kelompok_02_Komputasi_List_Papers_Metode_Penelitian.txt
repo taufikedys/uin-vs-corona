@@ -19,4 +19,4 @@ List Paper:
 Dataset:
 1. https://bnpb-inacovid19.hub.arcgis.com/datasets/covid19-indonesia-per-provinsi
 2. https://databoks.katadata.co.id/datapublish/2020/04/09/132-rumah-sakit-rujukan-covid-19-di-indonesia
-3. https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases
+3. https://bnpb-inacovid19.hub.arcgis.com/datasets/statistik-perkembangan-covid19-indonesia
