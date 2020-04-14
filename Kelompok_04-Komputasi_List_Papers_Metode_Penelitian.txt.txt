@@ -16,15 +16,12 @@ Author(s): Tian-Mu Chen, Jia Rui, Qiu-Peng Wang, Ze-Yu Zhao,Jing-An Cui, and Lin
 Author(s): Jianjun Gao, Zhenxue Tian, and Xu Yang
 4. The reproductive number of COVID-19 is higher compared to SARS coronavirus
 Author(s): Ying Liu, Albert A. Gayle, Annelies Wilder-Smith,and Joacim Rocklöv
-5. Prediction models for diagnosis and prognosis of covid-19 infection: systematic review and critical appraisal
-Author(s): Laure Wynants, et al.
-6. A cluster randomised trial of cloth masks compared with medical masks in healthcare workers
+5. A cluster randomised trial of cloth masks compared with medical masks in healthcare workers
 Author(s): C Raina MacIntyre, et al.
-7. Artificial Intelligence Distinguishes COVID-19 from Community Acquired Pneumonia on Chest CT
+6. Artificial Intelligence Distinguishes COVID-19 from Community Acquired Pneumonia on Chest CT
 Author(s): Lin Li, et al.
 
 Dataset:
-1. https://github.com/datasets/covid-19/tree/master/data
-2. https://data.humdata.org/m/dataset/indonesia-covid-19-cases-recoveries-and-deaths-per-province
-3. https://www.kaggle.com/sudalairajkumar/covid19-in-usa (USA Only)
+1. https://opendata.arcgis.com/datasets/0c0f4558f1e548b68a1c82112744bad3_0.geojson (per-province cases)
+2. https://opendata.arcgis.com/datasets/db3be1cadcf44b6fa709274c12726c59_0.geojson (daily cases)
 
