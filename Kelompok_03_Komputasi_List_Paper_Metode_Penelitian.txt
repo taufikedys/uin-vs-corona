@@ -17,5 +17,4 @@ List Journal:
 
 Data set:
 https://www.kaggle.com/ryanxjhan/coronaviruscovid19-canada
-https://data.world/covid-19-data-resource-hub/covid-19-case-counts
-https://essc-kawalcovid19.hub.arcgis.com/datasets/kasus-covid19-indonesia
+https://github.com/nytimes/covid-19-data/blob/master/us-states.csv
